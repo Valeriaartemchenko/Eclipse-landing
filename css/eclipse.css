@@ -617,6 +617,7 @@
 }
 
 .arrow_up {
+    display: block;
 	position: absolute;
 	top: 1129px;
 	left: 27px;
@@ -684,7 +685,7 @@
 }
 
 .links_list:nth-child(2) {
-	margin-left: -775px;
+	margin-left: -585px;
 
 }
 .links_list a {
@@ -692,7 +693,7 @@
 	display: inline-block;
 
 	padding: 11px 0;
-	
+
 	font-size: 12px;
 	color: #8297a7;
 }
